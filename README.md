@@ -1,6 +1,6 @@
 # Data Science Playlist Tutorials
 
-Companion notebooks and code walkthroughs for the **Data Science** tutorial series (having theoretical basic questions that to be solved). Each lesson has an interactive [marimo](https://marimo.io) 📓 notebook in this repo and a matching YouTube 🎥 video.
+**Learn by doing:** each lesson pairs an interactive [marimo](https://marimo.io) 📓 notebook with a YouTube 🎥 walkthrough—short, practical answers to classic data science questions.
 
 ## Tutorials
 

@@ -1,9 +1,0 @@
-Customer,Age,City,Gender,Annual Income (INR),Purchases,Avg Order Value (INR),Website Visits/Month,Membership,Total Spending (INR)
-C101,22,Bhopal,M,240000,8.0,1200,15,Gold,9600.0
-C102,35,Indore,F,520000,12.0,2500,20,Silver,30000.0
-C103,28,Bhopal,F,310000,,1800,12,Gold,
-C104,42,Ujjain,M,850000,20.0,5000,8,Platinum,100000.0
-C105,31,Indore,F,450000,10.0,2200,18,Silver,220000.0
-C106,67,Bhopal,M,1500000,25.0,8000,5,Platinum,200000.0
-C107,26,Indore,M,280000,7.0,1500,14,Gold,10500.0
-C108,29,Bhopal,F,340000,9.0,1900,16,Gold,17100.0
