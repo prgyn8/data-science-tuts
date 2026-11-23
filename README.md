@@ -8,7 +8,7 @@ A curated set of essential data science concepts, each in its own runnable [mari
 |---|--------|-----------------|--------|
 | 1 | 🔢 One-Hot Encoding | [`marimo/onehot_encode.py`](marimo/onehot_encode.py) | [▶️ Watch](https://www.youtube.com/watch?v=7xGJXzxBZik&t=1017s) |
 | 2 | 📦 Boxplot & Skewness | [`marimo/boxplot_and_skew.py`](marimo/boxplot_and_skew.py) | [▶️ Watch](https://www.youtube.com/watch?v=x8po9Qi1JO4&t=1187s) |
-| 3 | 📐 Principal Component Analysis (PCA) | [`marimo/PCA.py`](marimo/PCA.py) | [▶️ Watch](#) |
+| 3 | 📐 Principal Component Analysis (PCA) | [`marimo/PCA.py`](marimo/PCA.py) | [▶️ Watch](https://youtu.be/IfeA_2h1OZM) |
 | 4 | 📈 Logistic Regression | [`marimo/logistic_regression.py`](marimo/logistic_regression.py) | [▶️ Watch](#) |
 
 ## 🚀 Run marimo notebook locally
